@@ -1,12 +1,14 @@
-[
-    {
-        "celebridades" : "Mahani",
-        "avatar" : "https://static.wikia.nocookie.net/superman/images/4/48/Nuj.png/revision/latest?cb=20200201181516&path-prefix=es"
-    },{
-        "celebridades" : "RobertoBravo",
-        "avatar" : "https://static.wikia.nocookie.net/superman/images/4/48/Nuj.png/revision/latest?cb=20200201181516&path-prefix=es"
-    },{
-        "celebridades" : "EdithFisher",
-        "avatar" : "https://static.wikia.nocookie.net/superman/images/4/48/Nuj.png/revision/latest?cb=20200201181516&path-prefix=es"
-    }
-]
+{
+    "celebridades" : [
+        {
+            "celebridad" : "Mahani",
+            "avatar" : "https://static.wikia.nocookie.net/superman/images/4/48/Nuj.png/revision/latest?cb=20200201181516&path-prefix=es"
+        },{
+            "celebridad" : "RobertoBravo",
+            "avatar" : "https://static.wikia.nocookie.net/superman/images/4/48/Nuj.png/revision/latest?cb=20200201181516&path-prefix=es"
+        },{
+            "celebridad" : "EdithFisher",
+            "avatar" : "https://static.wikia.nocookie.net/superman/images/4/48/Nuj.png/revision/latest?cb=20200201181516&path-prefix=es"
+        }
+    ]
+}
