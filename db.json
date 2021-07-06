@@ -1,13 +1,14 @@
 [
-        {
-            "celebridad" : "Mahani",
-            "avatar" : "https://static.wikia.nocookie.net/superman/images/4/48/Nuj.png/revision/latest?cb=20200201181516&path-prefix=es"
-        },{
-            "celebridad" : "RobertoBravo",
-            "avatar" : "https://static.wikia.nocookie.net/superman/images/4/48/Nuj.png/revision/latest?cb=20200201181516&path-prefix=es"
-        },{
-            "celebridad" : "EdithFisher",
-            "avatar" : "https://static.wikia.nocookie.net/superman/images/4/48/Nuj.png/revision/latest?cb=20200201181516&path-prefix=es"
-        }
-    ]
-
+  {
+    "celebridad" : "Con Mahani Teave",
+    "avatar": "https://sm.ign.com/t/ign_es/screenshot/default/publicity-photo-superman-the-movie-20409106-1054-1_8zn8.1280.jpg"
+  },
+  {
+    "celebridad": "Con el maestro Roberto Bravo",
+    "avatar": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2018/06/aquaman_movie_dc_comics.jpg?w=1200&ssl=1"
+  },
+  {
+    "celebridad": "Con Edith Fisher",
+    "avatar": "https://www.tonica.la/__export/1619808941697/sites/debate/img/2021/04/30/supergirl-temporada-6_1.jpg_463833556.jpg"
+  }
+]
